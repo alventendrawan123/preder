@@ -1,0 +1,27 @@
+{
+  "programId": "xa2YjaE4f8qyae8crkfDQZV7KiwzQMSBcx56jeanyHi",
+  "config": "3DTCEgjWNKUay1WrfDkU3QVuEZo8HVHiTKDbavATWqTV",
+  "usdcMint": "H3FQaWeRZTsz8bcX47XiCNWAoA9oLZRNBaJEV7ayjYjo",
+  "communities": [
+    {
+      "id": 1,
+      "name": "Global Picks",
+      "pda": "BytEThvaP8XK2SB7hy1HKbtHambtCJGZV5HfJcR9BXXt",
+      "market": {
+        "fixtureId": 18218149,
+        "pda": "9Nov22CkzBFLTw38mH46ka4qmzkGW8wS6kdtxTve3oVn",
+        "vault": "6C6o5wgXG84LVGuvnu1yix781j2VU6wticbzyYU1RxG5"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Selecao Street",
+      "pda": "AyYmM42NAVKPbRGZGPKTW8hUxpP7CBJYHawKYbWVQfBx",
+      "market": {
+        "fixtureId": 18209181,
+        "pda": "ABiYi1r8QbXZxA7jmdz91svw4mpg1Bbfx9R58UikiVtS",
+        "vault": "GRTjyA9D2qtXrqtbpcV65mS7NVv7RxEwxTy151WUUV7d"
+      }
+    }
+  ]
+}

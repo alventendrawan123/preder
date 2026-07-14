@@ -1,0 +1,23 @@
+# Secrets — devnet keypairs (throwaway, but never commit)
+keys/
+*.keypair.json
+.env
+.env.local
+.env.*.local
+# TxLINE auth tokens (JWT + API token) — NEVER commit
+preder-auth.json
+*-auth.json
+*.last-event-id
+backend/.last-event-id
+
+# Node / build
+node_modules/
+.anchor/
+target/
+dist/
+.next/
+out/
+
+# Misc
+.DS_Store
+*.log
